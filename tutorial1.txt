@@ -3,3 +3,4 @@ this is the content added from feature/dev branch
 want to add and commit in a single command
 
 another changes from test/feature/dev
+# change 1
